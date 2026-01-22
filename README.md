@@ -8,6 +8,6 @@
 
 # Preview
 
-> We’re still at about 20% progress
+> We’re still at about 30% progress
 
-![SpotiFLAC-Next-dev_9DUz5K14sv](https://github.com/user-attachments/assets/1249e581-c9cf-4cf5-97cb-cb57947de5f0)
+![SpotiFLAC-Next-dev_Xli2qAC8He](https://github.com/user-attachments/assets/15e3221a-4884-4de4-88cb-dd63fdb56abf)
