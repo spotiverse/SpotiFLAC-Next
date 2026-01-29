@@ -4,10 +4,10 @@
 > Development is progressing slowly due to the complexity of the project.
 > Deadlines may be extended if the project is not ready on time.
 >
-> The repository [https://github.com/afkarxyz/SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) is available again and has been updated.
+> The repository [https://github.com/afkarxyz/SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) **is back** and has been updated.
 > You can continue using the current version as usual.
 >
-> **SpotiFLAC Next (the next-generation version) is a separate project and is available exclusively to Ko-fi supporters.**
+> **SpotiFLAC Next** (the next-generation version) is a separate project and is currently available exclusively to Ko-fi supporters.
 
 > [!NOTE]
 > **SpotiFLAC Next** introduces major improvements that are not available in the current version, including:
@@ -17,7 +17,7 @@
 > * Workflow and pipeline configuration
 > * Instance and credential management
 >
-> These features are part of **SpotiFLAC Next** and are reserved for Ko-fi supporters.
+> These features are part of **SpotiFLAC Next** and are **currently reserved for Ko-fi supporters**.
 
 # Preview
 
