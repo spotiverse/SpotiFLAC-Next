@@ -19,10 +19,8 @@
 
 ## Tech Stack
 
-| Component | Technology |
-|-----------|------------|
-| **SpotiFLAC** | TypeScript, React, Go |
-| **SpotiFLAC Next** | TypeScript, Svelte, Go, TagLib |
+**SpotiFLAC:** TypeScript, React, Go  
+**SpotiFLAC Next:** TypeScript, Svelte, Go, TagLib
 
 ## Feature Comparison
 
@@ -41,7 +39,7 @@
 - [x] Extensions
 - [x] Workflow
 
-### In Progress / Planned
+### In Progress
 - [ ] History
 - [ ] Audio Quality Analyzer
 - [ ] Audio Converter
