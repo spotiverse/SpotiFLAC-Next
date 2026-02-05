@@ -41,11 +41,13 @@
 
 ### In Progress
 - [ ] History
+- [ ] Debug Logs
+- [ ] Settings - 27%
+
+### Queued
 - [ ] Audio Quality Analyzer
 - [ ] Audio Converter
 - [ ] File Manager
-- [ ] Debug Logs
-- [ ] Settings - 27%
       
 ## Preview
 
