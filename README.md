@@ -31,11 +31,11 @@
 
 | Feature | SpotiFLAC | SpotiFLAC Next |
 |---------|-----------|----------------|
-| **Track Fetching** | Spotify Web | Spotify Web, Spotify API |
-| **Link Resolver** | Songlink | Songlink, IDHS |
-| **Metadata Provider** | Spotify Web | Spotify Web, Spotify API, Deezer API, Tidal API, Qobuz API, MusicBrainz |
+| **Track Fetching** | Spotify Web | Spotify Web |
+| **Link Resolver** | Songlink | Songlink, Odesli, IDHS |
+| **Metadata Provider** | Spotify Web | Spotify Web, Deezer API, Tidal API, Qobuz API |
 | **Lyrics Provider** | LRCLIB | Spotify Web, Musixmatch, LRCLIB |
-| **Downloader** | Tidal, Qobuz, Amazon Music (Unstable) | Tidal, Qobuz, Amazon Music (Stable), Deezer |
+| **Downloader** | Tidal, Qobuz, Amazon Music (Unstable) | Tidal, Qobuz, Amazon Music, Deezer |
 
 ## Roadmap
 
@@ -56,10 +56,9 @@
       
 ## Preview
 
-> We’re still at about 64% progress
+> We’re still at about 65% progress
 
-![SpotiFLAC-Next-dev_eqsRRBvoJU](https://github.com/user-attachments/assets/c159f04f-35b3-45ff-8dbc-4bb15f232eb6)
+![SpotiFLAC-Next-dev_XqWmPRapRs](https://github.com/user-attachments/assets/13279d92-97c5-42e2-9ec0-14e8da887aec)
 
-![SpotiFLAC-Next-dev_Qz4oEyVpUl](https://github.com/user-attachments/assets/9d804a77-1423-4c07-bba0-72d3bb18e4d7)
+![SpotiFLAC-Next-dev_X7gnKKQYRV](https://github.com/user-attachments/assets/741982df-57da-487b-be72-02726a15ed41)
 
-![SpotiFLAC-Next-dev_2d26fEkoir](https://github.com/user-attachments/assets/52cb5df5-7217-4b48-8e5e-eb33041a2619)
