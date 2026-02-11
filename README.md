@@ -1,10 +1,5 @@
 ![Maintenance](https://maintenance.afkarxyz.fun?v=3)
 
-
-> Bad news for developers. https://developer.spotify.com/blog/2026-02-06-update-on-developer-access-and-platform-security
-> 
-> Due to these changes, I will be removing the Spotify API integration and will only use the Spotify Web API (reverse engineering).
-
 > [!IMPORTANT]
 > Development is progressing slowly due to the complexity of the project.
 > Deadlines may be extended if the project is not ready on time.
