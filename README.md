@@ -7,10 +7,9 @@
 > The repository [https://github.com/afkarxyz/SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) **is back** and has been updated.
 > You can continue using the current version as usual.
 >
-> **SpotiFLAC Next** is a separate next-generation project that is still under active development. Once released, it will be available exclusively to existing supporters on Ko-fi or Buy Me a Coffee who already support SpotiFLAC. A public release has not yet been determined.
+> **SpotiFLAC Next** is a separate next-generation project that is still under active development. Once released, it will be available exclusively to existing supporters on Ko-fi who already support SpotiFLAC. A public release has not yet been determined.
 >
 > [![Ko-fi](https://img.shields.io/badge/Support%20me%20on%20Ko--fi-72a5f2?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/afkarxyz)
-> [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/afkarxyz)
 
 > [!NOTE]
 > **SpotiFLAC Next** introduces major improvements that are not available in the current version, including:
