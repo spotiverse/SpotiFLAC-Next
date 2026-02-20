@@ -33,7 +33,7 @@
 | **Link Resolver** | Songlink | Songlink, Odesli, IDHS |
 | **Metadata Provider** | Spotify Web | Spotify Web, Deezer API, Tidal API, Qobuz API |
 | **Lyrics Provider** | LRCLIB | Spotify Web, Musixmatch, LRCLIB |
-| **Downloader** | Tidal, Qobuz, Amazon Music (Unstable) | Tidal, Qobuz, Amazon Music, Deezer |
+| **Downloader** | Tidal, Qobuz (Down), Amazon Music (Slowly) | Tidal, Qobuz, Amazon Music, Deezer |
 
 ## Roadmap
 
