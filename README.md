@@ -1,5 +1,9 @@
 ![Maintenance](https://maintenance.afkarxyz.fun?v=3)
 
+# SpotiFLAC Next
+
+Get Spotify tracks in Hi-Res lossless FLACs — no account required.
+
 > [!IMPORTANT]
 > Development is progressing slowly due to the complexity of the project.
 > Deadlines may be extended if the project is not ready on time.
