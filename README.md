@@ -37,4 +37,4 @@ Get Spotify tracks in Hi-Res lossless FLACs — no account required.
 
 > We’re still at about 70% progress
 
-![img](https://github.com/user-attachments/assets/13d987a6-25ac-49a1-ba04-91a315e296ed)
+![SpotiFLAC-Next-dev_FGJVxaBoi7](https://github.com/user-attachments/assets/7cabbf63-77c3-4026-bfab-c96da362330d)
