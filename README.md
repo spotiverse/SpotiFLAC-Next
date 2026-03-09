@@ -7,9 +7,14 @@ Get Spotify tracks in true FLAC from Tidal, Qobuz, Amazon Music & Deezer — no 
 ![Linux](https://img.shields.io/badge/Linux-Any-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 
 > [!IMPORTANT]
-> **SpotiFLAC Next** is a separate next-generation project. It has now been released and is available exclusively to existing supporters on [Ko-fi](https://ko-fi.com/i/IW7W31VL81Y) who support SpotiFLAC. If you're a supporter but cannot see the post, please **contact me via Ko-fi.**
+> **SpotiFLAC Next** is a separate project created as a thank-you to everyone who has supported [SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) on [Ko-fi](https://ko-fi.com/i/IW7W31VL81Y)
 > 
 > [![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/afkarxyz)
+
+> [!TIP]
+> If you're a supporter but cannot see the post, please **contact me via Ko-fi.**
+
+
 
 ## Comparison
 
