@@ -31,6 +31,7 @@ Get Spotify tracks in true FLAC from Tidal, Qobuz, Amazon Music & Deezer — no 
 | **Metadata Provider** | Spotify Web, MusicBrainz | Spotify Web, MusicBrainz, Tidal, Qobuz, Amazon Music, Deezer |
 | **Lyrics Provider** | LRCLIB | Spotify Web, Musixmatch, LRCLIB |
 | **Downloader** | Tidal, Qobuz, Amazon Music | Tidal, Qobuz, Amazon Music, Deezer |
+| **Tagging Engine** | Native Go | TagLib |
      
 ## Preview
 
