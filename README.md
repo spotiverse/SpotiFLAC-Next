@@ -29,6 +29,7 @@ Get Spotify tracks in true Lossless from Tidal, Qobuz, Amazon Music, Deezer & Ap
 | **Extensions** | <div align="center">✗</div> | <div align="center">✓</div> |
 | **Workflow** | <div align="center">✗</div> | <div align="center">✓</div> |
 | **Home Feed** | <div align="center">✗</div> | <div align="center">✓</div> |
+| **Updates** | Slower Updates | Frequent Updates  |
 | **Supported Links** | Spotify | Spotify, Tidal, Qobuz, Amazon Music, Deezer, Apple Music |
 | **Metadata Provider** | Spotify Web, MusicBrainz | Spotify Web, MusicBrainz, Tidal, Qobuz, Amazon Music, Deezer, Apple Music |
 | **Lyrics Provider** | LRCLIB | Spotify Web, Apple Music, Musixmatch, LRCLIB |
@@ -37,4 +38,4 @@ Get Spotify tracks in true Lossless from Tidal, Qobuz, Amazon Music, Deezer & Ap
      
 ## Preview
 
-![SpotiFLAC-Next_MDlNfMEpld](https://github.com/user-attachments/assets/0de0cd7f-9b17-4689-807f-6c6dcbbb5c5c)
+![SpotiFLAC-Next_1zBskNiOYZ](https://github.com/user-attachments/assets/e60a3a5a-407b-4dfc-8947-fc2f97ed59dd)
