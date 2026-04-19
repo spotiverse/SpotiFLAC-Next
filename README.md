@@ -29,10 +29,11 @@ Get Spotify tracks in true Lossless from Tidal, Qobuz, Amazon Music, Deezer & Ap
 | **Extensions** | <div align="center">✗</div> | <div align="center">✓</div> |
 | **Workflow** | <div align="center">✗</div> | <div align="center">✓</div> |
 | **Home Feed** | <div align="center">✗</div> | <div align="center">✓</div> |
-| **Updates** | Slower Updates | Frequent Updates  |
+| **Source Availability** | Open Source | Closed Source |
+| **Updates** | Slower Updates | Frequent Updates |
 | **Supported Links** | Spotify | Spotify, Tidal, Qobuz, Amazon Music, Deezer, Apple Music |
 | **Metadata Provider** | Spotify Web, MusicBrainz | Spotify Web, MusicBrainz, Tidal, Qobuz, Amazon Music, Deezer, Apple Music |
-| **Lyrics Provider** | LRCLIB | Spotify Web, Apple Music, Musixmatch, LRCLIB |
+| **Lyrics Provider** | LRCLIB | Spotify Web, Apple Music, Amazon Music, Musixmatch, LRCLIB |
 | **Downloader** | Tidal, Qobuz, Amazon Music | Tidal, Qobuz, Amazon Music, Deezer, Apple Music |
 | **Tagging Engine** | Native Go | TagLib |
      
