@@ -3,10 +3,7 @@
 ![Linux](https://img.shields.io/badge/Linux-Any-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 
 > [!IMPORTANT]
-> **SpotiFLAC Next** is a separate project created as a thank-you to everyone who has supported [SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) on Ko-fi. It’s available via a supporter-only post on [Ko-fi.](https://ko-fi.com/i/IW7W31VL81Y)
-
-> [!TIP]
-> If you're a supporter but cannot see the post, please **contact me via Ko-fi.**
+> **SpotiFLAC Next** is a separate project created **as a thank-you** to everyone who has supported [SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) on Ko-fi. It’s available via a supporter-only post on [Ko-fi.](https://ko-fi.com/i/IW7W31VL81Y) If you're a supporter but cannot see the post, please **contact me via Ko-fi.**
 
 ### [Download](https://ko-fi.com/i/IW7W31VL81Y)
 
@@ -19,7 +16,6 @@
 | **Extensions** | <div align="center">✗</div> | <div align="center">✓</div> |
 | **Workflow** | <div align="center">✗</div> | <div align="center">✓</div> |
 | **Home Feed** | <div align="center">✗</div> | <div align="center">✓</div> |
-| **Source Availability** | Open Source | Closed Source |
 | **Updates** | Slower Updates | Frequent Updates |
 | **Supported Links** | Spotify | Spotify, Tidal, Qobuz, Amazon Music, Deezer, Apple Music |
 | **Metadata Provider** | Spotify Web, MusicBrainz | Spotify Web, MusicBrainz, Tidal, Qobuz, Amazon Music, Deezer, Apple Music |
