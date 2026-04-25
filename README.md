@@ -14,13 +14,9 @@ Get Spotify tracks in true Lossless from Tidal, Qobuz, Amazon Music, Deezer & Ap
 > **SpotiFLAC Next** is a separate project created as a thank-you to everyone who has supported [SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) on Ko-fi.
 >
 > It’s available via a supporter-only post on [Ko-fi.](https://ko-fi.com/i/IW7W31VL81Y)
-> 
-> [![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/afkarxyz)
 
 > [!TIP]
 > If you're a supporter but cannot see the post, please **contact me via Ko-fi.**
-
-![Ko-fi_Stats](https://kofi.afkarxyz.qzz.io/v1/stats)
 
 ## Comparison
 
