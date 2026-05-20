@@ -3,9 +3,13 @@
 ![Linux](https://img.shields.io/badge/Linux-Any-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 
 > [!IMPORTANT]
-**SpotiFLAC Next** is a separate project released **as a token of appreciation** for those who have supported [SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) on Ko-fi. It’s not a paid product, but it’s shared privately through a supporter-only post. If you’re a supporter and can’t access it, feel free to **contact me via Ko-fi.**
+> **SpotiFLAC Next** is a separate project released **as a token of appreciation** for those who have supported [SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) through Ko-fi, Patreon, or crypto. It’s not a paid product, but it’s shared privately through a supporter-only post.
+> 
+> If you’re a supporter and can’t access it, feel free to contact me via [Ko-fi](https://ko-fi.com/afkarxyz)
+> 
+> If you have any questions or need help with donating, feel free to reach out via [Telegram](https://t.me/afkarxyz) or hi@afkarxyz.fyi
 
-### [Download](https://ko-fi.com/i/IW7W31VL81Y)
+### [Download](https://github.com/spotbye/SpotiFLAC-Next/releases)
 
 ![SpotiFLAC-Next_1zBskNiOYZ](https://github.com/user-attachments/assets/e60a3a5a-407b-4dfc-8947-fc2f97ed59dd)
 
@@ -16,8 +20,8 @@
 | **Extensions** | <div align="center">✗</div> | <div align="center">✓</div> |
 | **Workflow** | <div align="center">✗</div> | <div align="center">✓</div> |
 | **Home Feed** | <div align="center">✗</div> | <div align="center">✓</div> |
-| **Source Availability** | Open Source | Closed Source |
-| **Updates** | Slower Updates | Frequent Updates |
+| **Source Availability** | Open | Closed |
+| **Updates** | Slower | Frequent |
 | **Supported Links** | Spotify | Spotify, Tidal, Qobuz, Amazon Music, Deezer, Apple Music |
 | **Metadata Provider** | Spotify Web, MusicBrainz | Spotify Web, MusicBrainz, Tidal, Qobuz, Amazon Music, Deezer, Apple Music |
 | **Lyrics Provider** | LRCLIB | Spotify Web, Apple Music, Amazon Music, Musixmatch, LRCLIB |
